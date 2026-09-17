@@ -1,3 +1,7 @@
-def greet():
-        print("hello")
-greet()
+# def greet():
+#         print("hello")
+# greet()
+
+def pi():
+        return 3.14
+print(pi())
